@@ -1,3 +1,3 @@
 halaman latihan
 
-Hello
+Hello perubahan dengan gitignore
